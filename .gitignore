@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv/
+env/
+
+# Build and Distribution
+dist/
+build/
+*.spec
+installer_output/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# User Data (Keep the folder structure, but ignore the contents)
+data/history/*.json

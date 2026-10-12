@@ -1,0 +1,11 @@
+{
+  "has_accepted_tc": true,
+  "accepted_tc_at": "2026-10-12T08:04:09.585326",
+  "language": "id",
+  "theme": "System",
+  "model_path": "",
+  "n_ctx": 4096,
+  "n_threads": 0,
+  "max_tokens": 200,
+  "temperature": 0.8
+}
